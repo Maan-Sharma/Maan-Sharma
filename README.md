@@ -4,7 +4,7 @@
 
 ### `software engineer`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1400&color=00FF9C&center=true&vCenter=true&width=650&lines=building+systems+that+move+fast;C%2B%2B+%7C+Backend+%7C+Quant+%7C+Android;performance+%7C+distributed+systems+%7C+real-time" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1400&color=00FF9C&center=true&vCenter=true&width=650&lines=building+systems+that+move+fast;C%2B%2B+%7C+Backend+%7C+Quant+%7C+Android;Node.js+%7C+Express+%7C+TypeScript+%7C+MongoDB;performance+%7C+distributed+systems+%7C+real-time" />
 
 <br>
 
@@ -19,14 +19,15 @@
 ```text
 $ ./man
 
-┌──────────────────────────────────────────────┐
-│                                              │
-│  SYSTEMS        C++ / Linux / Networking     │
-│  BACKEND        Node / TypeScript / SQL      │
-│  QUANT          Market Systems / HFT         │
-│  MOBILE         Kotlin / Android             │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  SYSTEMS        C++ / Linux / Networking             │
+│  BACKEND        Node / Express / TypeScript / REST   │
+│  DATA           MongoDB / Mongoose / PostgreSQL      │
+│  QUANT          Market Systems / HFT                 │
+│  MOBILE         Kotlin / Android                     │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ### `what i care about`
@@ -35,9 +36,25 @@ $ ./man
 low latency        ────────────────►
 high throughput    ────────────────►
 clean architecture ────────────────►
+type safety        ────────────────►
 distributed systems───────────────►
 performance        ────────────────►
 ```
+
+### `backend engineering`
+
+Completed **[Node.js, Express, TypeScript, MongoDB & More: The Real Path](https://www.udemy.com/course/express-typescript-nodejs-mongodb-more-the-real-path/)** (Udemy), a hands-on course on building production-style backend services.
+
+```text
+API DESIGN       RESTful APIs with Express.js
+LANGUAGE         TypeScript — static typing, interfaces, generics
+RUNTIME          Node.js — async programming, event loop, modules
+DATABASE         MongoDB + Mongoose — schemas, models, queries
+ARCHITECTURE     Layered structure: routes → controllers → services → models
+RELIABILITY      Error handling, validation, middleware
+```
+
+`Node.js` · `Express` · `TypeScript` · `MongoDB` · `Mongoose` · `REST APIs` · `Middleware` · `Async/Await`
 
 ### `currently exploring`
 
@@ -55,7 +72,7 @@ performance        ────────────────►
 
 ### `the stack`
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,kotlin,java,nodejs,postgres,redis,mongodb,docker,linux,cmake,git,github,react,nextjs,tailwind,android,firebase&perline=7" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,kotlin,java,nodejs,express,mongodb,postgres,redis,docker,linux,cmake,git,github,react,nextjs,tailwind,android,firebase&perline=8" />
 
 </div>
 
