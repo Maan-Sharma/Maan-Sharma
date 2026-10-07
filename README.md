@@ -43,8 +43,6 @@ performance        ────────────────►
 
 ### `backend engineering`
 
-Completed **[Node.js, Express, TypeScript, MongoDB & More: The Real Path](https://www.udemy.com/course/express-typescript-nodejs-mongodb-more-the-real-path/)** (Udemy), a hands-on course on building production-style backend services.
-
 ```text
 API DESIGN       RESTful APIs with Express.js
 LANGUAGE         TypeScript — static typing, interfaces, generics
