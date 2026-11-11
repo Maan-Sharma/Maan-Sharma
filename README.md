@@ -13,8 +13,18 @@
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:mansharma545@gmail.com)
 
 </div>
+<br>
+<div align="center">
+
+### `my butterfly`
+
+<img src="butterfly/butterfly.gif" width="480" alt="A pixel butterfly that grows with my GitHub contributions" />
+
+</div>
 
 <br>
+<br>
+
 
 ```text
 $ ./man
