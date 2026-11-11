@@ -1,0 +1,27 @@
+name: Update butterfly
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  butterfly:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Maan-Sharma/git-butterfly@main
+        with:
+          username: ${{ github.repository_owner }}
+
+      - name: Commit the new butterfly
+        run: |
+          git config user.name "git-butterfly[bot]"
+          git config user.email "git-butterfly@users.noreply.github.com"
+          git add butterfly/butterfly.gif
+          git diff --cached --quiet || git commit -m "chore: update butterfly"
+          git push
