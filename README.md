@@ -11,6 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square\&logo=github)](https://github.com/Maan-Sharma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/man-mohan-sharma-1aa72920a/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:mansharma545@gmail.com)
+<br>
 [![Sponsor](https://img.shields.io/badge/❤️_Sponsor_Me-GitHub_Sponsors-DB61A2?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Maan-Sharma)
 </div>
 
